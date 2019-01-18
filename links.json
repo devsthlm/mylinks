@@ -848,5 +848,56 @@
             "text": "site"
         }
       ]
+    },
+    {
+    "title": "Programming exercises, code katas and puzzles for your job interview training - or just for fun.",
+    "description": "This repo contains a long list of coding exercises that could potentially be used in interviews or other fun exercise scenarios.",
+    "author": "",
+    "tags": [
+        "github",
+        "code",
+        "exercise"
+      ],
+    "date": "2019-01-18",
+    "links": [
+        {
+            "link": "https://github.com/mre/the-coding-interview",
+            "text": "github"
+        }
+      ]
+    },
+    {
+    "title": "Links related to engineering management",
+    "description": "A collection of inspiring resources related to engineering management and tech leadership. Quite a big more extensive than this list. Very inspirational",
+    "author": "",
+    "tags": [
+        "github",
+        "links",
+        "manager"
+      ],
+    "date": "2019-01-18",
+    "links": [
+        {
+            "link": "https://github.com/charlax/engineering-management",
+            "text": "github"
+        }
+      ]
+    },
+    {
+    "title": "Links related to development",
+    "description": "A collection of full-stack resources for programmers. By same the author as the link above.",
+    "author": "",
+    "tags": [
+        "github",
+        "links",
+        "development"
+      ],
+    "date": "2019-01-18",
+    "links": [
+        {
+            "link": "https://github.com/charlax/professional-programming",
+            "text": "github"
+        }
+      ]
     }
 ]
