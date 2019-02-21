@@ -916,5 +916,22 @@
             "text": "site"
         }
       ]
+    },
+    {
+    "title": "Why do standups?",
+    "description": "An extensive description and explanation of the ideas, concepts and anti-patterns of a standup. Very good read and important in the argumenation for doing standups.",
+    "author": "",
+    "tags": [
+        "agile",
+        "standup",
+        "teamwork"
+      ],
+    "date": "2019-02-21",
+    "links": [
+        {
+            "link": "https://martinfowler.com/articles/itsNotJustStandingUp.html",
+            "text": "blog"
+        }
+      ]
     }
 ]
