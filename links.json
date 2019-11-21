@@ -899,5 +899,39 @@
             "text": "github"
         }
       ]
+    },
+    {
+    "title": "Create a retrospective",
+    "description": "A simple tool for creating a retrospecive exercise in the five stage process (set the stage, gather data, generate insights, decide what to do).",
+    "author": "",
+    "tags": [
+        "agile",
+        "retrospecive",
+        "tool"
+      ],
+    "date": "2019-01-18",
+    "links": [
+        {
+            "link": "https://retromat.org/en/",
+            "text": "site"
+        }
+      ]
+    },
+    {
+    "title": "Why do standups?",
+    "description": "An extensive description and explanation of the ideas, concepts and anti-patterns of a standup. Very good read and important in the argumenation for doing standups.",
+    "author": "",
+    "tags": [
+        "agile",
+        "standup",
+        "teamwork"
+      ],
+    "date": "2019-02-21",
+    "links": [
+        {
+            "link": "https://martinfowler.com/articles/itsNotJustStandingUp.html",
+            "text": "blog"
+        }
+      ]
     }
 ]
