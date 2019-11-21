@@ -103,23 +103,11 @@ This article talks about how to create good user stories and tasks using the INV
 
 ## Video about Agile Testing
 
- 
 [video 1](http://blog.crisp.se/2014/05/22/jimmyjanlen/seminarie-agil-testning-slides-och-video][https://www.youtube.com/watch?v=cx1aWmIAqCY)
 (blog)
 
 `#video` `#crisp` `#test` `#agile`
 [video 2](https://www.youtube.com/watch?v=yBV8FTtYKKc)
-
-## TFS Web Portal Documentation
-
-[web](https://msdn.microsoft.com/en-us/Library/vs/alm/Work/scrum/sprint-planning)
-
-## Searching in TFS
-
-Tips and tricks when searching in FTS web portal  
-[web](https://msdn.microsoft.com/en-us/library/cc668120.aspx)
-
-`#tfs` `#tool`
 
 ## 7P framwork
 
@@ -298,7 +286,7 @@ Joel on Software describes the cost of grooming and working with backlog items t
 
 `#backlog` `#planning` `#agile`
 
-## 12 Manager READMEs from Silicon Valleyâ€™s Top Tech Companies
+## 12 Manager READMEs from Silicon Valley's Top Tech Companies
 
 This post links to several documents written by development/engineering managers at different companies who define how they work, what they do, what they value and how to interact with them. Reading this is great for reflection. When reading them it's good to know differences in work culture to the US.
 
