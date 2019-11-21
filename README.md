@@ -6,70 +6,70 @@ This video created by Henrik Kniberg is one of the best ever made in describing 
 [video](https://www.youtube.com/watch?v=502ILHjX9EE)
 [blog](http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell)
 
-`product owner` `agile` `video` `basic` `crisp`
+`#product owner` `#agile` `#video` `#basic` `#crisp`
 
 ## The trap of iterative waterfall
 
 How an organization can be fooled to think they are agile but are really using an \"iterative waterfall\" method  
 [blog](https://www.mountaingoatsoftware.com/blog/an-iterative-waterfall-isnt-agile)
 
-`agile` `waterfall`
+`#agile` `#waterfall`
 
 ## 78 Things I've Learned 9 Years Agile Coaching
 
 A very nice list to read through every now and then that reminds you of some basics.  
 [blog](https://www.rallydev.com/blog/agile/78-things-ive-learned-9-years-agile-coaching)
 
-`coaching` `agile`
+`#coaching` `#agile`
 
 ## Scrum Checklist
 
 Here's a checklist that has some good pointers to what scrum is.  
 [pdf](https://www.crisp.se/wp-content/uploads/2012/05/Scrum-checklist.pdf)
 
-`scrum` `checklist` `pdf` `crisp`
+`#scrum` `#checklist` `#pdf` `#crisp`
 
 ## Agile Meetings Cube
 
 Pdf to print and create a physical cube with one scrum ceremony per side.  
 [pdf](https://conceptcubes.files.wordpress.com/2014/10/agile-meetings-cube.pdf)
 
-`pdf` `scrum` `tool` `crisp`
+`#pdf` `#scrum` `#tool` `#crisp`
 
 ## Scrum Guide
 
 The official scrum guide from the founders of scrum  
 [web](http://www.scrumguides.org/scrum-guide.html)
 
-`scrum` `basic` `definition`
+`#scrum` `#basic` `#definition`
 
 ## Online scrum assessment
 
 Test your scrum skills online  
 [web](https://www.scrum.org/Assessments/Open-Assessments)
 
-`scrum` `quiz`
+`#scrum` `#quiz`
 
 ## Scrum Roles Mindmap
 
 A mindmap of different roles and their responsabilities in scrum.  
 [pdf](http://blog.crisp.se/mattiasskarin/files/agileroles/AgileRoles.pdf)
 
-`scrum` `roles` `pdf` `crisp` `mindmap`
+`#scrum` `#roles` `#pdf` `#crisp` `#mindmap`
 
 ## Product Owner Role Mindmap
 
 A mindmap of things that are included in the product owner role.  
 [pdf](http://blog.crisp.se/wp-content/uploads/2015/03/PO_checklist.pdf)
 
-`mindmap` `crisp` `product owner` `pdf` `scrum`
+`#mindmap` `#crisp` `#product owner` `#pdf` `#scrum`
 
 ## Retrospectives Wiki
 
 A list of retrospectives in a wiki-styled page  
 [web](http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
 
-`retrospective` `workshop` `scrum`
+`#retrospective` `#workshop` `#scrum`
 
 ## Visual \"Jimmy Cards\"
 
@@ -77,14 +77,14 @@ Jimmy Cards are aids in having retrospectives or for building knowledge
 [web](http://blog.crisp.se/wp-content/uploads/2015/10/Agile-Topics-Cards-Jimmy-Janl%C3%A9n-Crisp-144-cards.pdf][http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck#more-7126)
 (pdf)
 
-`retrospective` `crisp` `jimmy cards` `agile` `scrum`
+`#retrospective` `#crisp` `#jimmy cards` `#agile` `#scrum`
 
 ## What's in a user story?
 
 A great blog entry about what user stories are and what should be put into them. How should they be written and what information is important?  
 [blog](http://dannorth.net/whats-in-a-story/)
 
-`user story` `agile` `basic`
+`#user story` `#agile` `#basic`
 
 ## Splitting User Stories
 
@@ -92,14 +92,14 @@ This article gives some tips and tricks about splitting user stories.
 [pdf](http://www.agileforall.com/2009/10/patterns-for-splitting-user-stories/][http://www.agileforall.com/2012/01/new-story-splitting-resource/)
 (web)
 
-`user story` `tool` `pdf`
+`#user story` `#tool` `#pdf`
 
 ## INVEST in User Stories and create SMART tasks
 
 This article talks about how to create good user stories and tasks using the INVEST and SMART acronyms  
 [web](http://xp123.com/xplor/xp0308/index.shtml)
 
-`user story` `task` `backlog` `planning`
+`#user story` `#task` `#backlog` `#planning`
 
 ## Video about Agile Testing
 
@@ -107,7 +107,7 @@ This article talks about how to create good user stories and tasks using the INV
 [video 1](http://blog.crisp.se/2014/05/22/jimmyjanlen/seminarie-agil-testning-slides-och-video][https://www.youtube.com/watch?v=cx1aWmIAqCY)
 (blog)
 
-`video` `crisp` `test` `agile`
+`#video` `#crisp` `#test` `#agile`
 [video 2](https://www.youtube.com/watch?v=yBV8FTtYKKc)
 
 ## TFS Web Portal Documentation
@@ -119,14 +119,14 @@ This article talks about how to create good user stories and tasks using the INV
 Tips and tricks when searching in FTS web portal  
 [web](https://msdn.microsoft.com/en-us/library/cc668120.aspx)
 
-`tfs` `tool`
+`#tfs` `#tool`
 
 ## 7P framwork
 
 The 7P framwork is a good tool to use when planning meetings. It allows you to think about your meetings in advance and to have better meetings.  
 [web](http://gamestorming.com/core-games/7ps-framework/)
 
-`meeting` `planning`
+`#meeting` `#planning`
 
 ## Continuous Delivery Maturity Model
 
@@ -134,21 +134,21 @@ This article talks about how an organization can be agile on different levels. T
 [jpg](http://www.infoq.com/articles/Continuous-Delivery-Maturity-Model)
 [web](http://cdn.infoq.com/statics_s1_20150902-03315u1/resource/articles/Continuous-Delivery-Maturity-Model/en/resources/fig1large.jpg)
 
-`continuous delivery` `steps`
+`#continuous delivery` `#steps`
 
 ## Video about Estimating
 
 This video has some good stuff in it. It's not the best but it will give you some arguments when talking about the benefits of agile over waterfall.  
 [video](https://www.youtube.com/watch?v=bicBUVbeR58)
 
-`estimates` `no estimates` `agile` `planning`
+`#estimates` `#no estimates` `#agile` `#planning`
 
 ## Short Video about Working Agreements
 
 This video talks about working agreements in a short and conscise way.  
 [video](https://www.youtube.com/watch?v=CStypsb3GKI)
 
-`working agreements` `team` `agile`
+`#working agreements` `#team` `#agile`
 
 ## Draw a Toast
 
@@ -156,35 +156,35 @@ The exercise \"How to Draw a Toast\" is a great exercise to show the benefits of
 [ted](http://www.drawtoast.com)
 [web](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast)
 
-`game` `exercise` `collaboration` `workshop` `video`
+`#game` `#exercise` `#collaboration` `#workshop` `#video`
 
 ## Hyper Island Toolbox
 
 Hyper Island is a school. They have a site with short games that you can use for different teams.  
 [web](http://toolbox.hyperisland.com/)
 
-`workshop` `toolbox` `game` `exercise` `team` `collaboration`
+`#workshop` `#toolbox` `#game` `#exercise` `#team` `#collaboration`
 
 ## Gamestorming site
 
 There is a book called Gamestorming with lots of exercises you can use for different purposes with teams. This is the site that goes with it. Most games can be found here if you know what you are looking for.  
 [web](http://gamestorming.com)
 
-`game` `workshop` `exercise` `toolbox` `team` `collaboration`
+`#game` `#workshop` `#exercise` `#toolbox` `#team` `#collaboration`
 
 ## Agile Manifesto
 
 The agile manifesto is used as a definition of agile in software development. It was created back in 2001 when a group of now more or less famous people met to discuss new trends in software development. It is seen as an important document in the agile community.  
 [web](http://agilemanifesto.org/)
 
-`agile` `basic` `definition`
+`#agile` `#basic` `#definition`
 
 ## User story map
 
 A user story map is a powerful tool for visualizing progress in a project. The concept was developed by Jeff Patton who has written a great book about the concept but this presentation is a great introduction and gives a good overview of how a user story map can be created.  
 [web](https://www.infoq.com/presentations/user-story-map)
 
-`user story` `user story map` `video` `visualize` `tool`
+`#user story` `#user story map` `#video` `#visualize` `#tool`
 
 ## How to Implement Hypothesis Driven Development
 
@@ -192,7 +192,7 @@ Another take on how to break development into incremental pieces. While user sto
 
 [blog](https://www.thoughtworks.com/insights/blog/how-implement-hypothesis-driven-development)
 
-`backlog` `user story`
+`#backlog` `#user story`
 
 ## User stories and backlog management slides
 
@@ -200,7 +200,7 @@ Great slides from a workshop regarding user stories. Talks about requirements an
 
 [slides](http://www.slideshare.net/peterantman/user-story-workshop-39391611)
 
-`user story` `crisp` `backlog` `slides`
+`#user story` `#crisp` `#backlog` `#slides`
 
 ## App for simple johari window
 
@@ -208,7 +208,7 @@ This site is an app allowing for the creation of a johari window. Johari window 
 
 [site](http://kevan.org/johari)
 
-`johari` `tool`
+`#johari` `#tool`
 
 ## Impact mapping
 
@@ -216,7 +216,7 @@ This site is an app allowing for the creation of a johari window. Johari window 
 
 [blog](http://www.dkrimmer.de/2014/11/21/how-to-make-an-impact-with-your-software-product/)
 
-`tool` `product` `planning`
+`#tool` `#product` `#planning`
 
 [site](https://www.impactmapping.org/)
 
@@ -226,7 +226,7 @@ Helium stick is a great exercise for teams to get them to discuss communication 
 
 [site](http://wilderdom.com/games/descriptions/HeliumStick.html)
 
-`teamwork` `exercise`
+`#teamwork` `#exercise`
 
 ## Introduction to behaviour-driven development (BDD)
 
@@ -234,13 +234,13 @@ BDD is Dan North's concept that descibes as a better way of descibing test-drive
 
 [blog](https://dannorth.net/introducing-bdd/)
 
-`test` `development` `requirements` `concept`
+`#test` `#development` `#requirements` `#concept`
 
 ## Technology Radar
 
 [site](https://www.thoughtworks.com/radar)
 
-`trends` `technology`
+`#trends` `#technology`
 
 ## The State of JavaScript
 
@@ -248,7 +248,7 @@ This site gives a structure to the chaos and mess in the JavaScript world. What 
 
 [site](http://stateofjs.com/)
 
-`trends` `technology` `javascript`
+`#trends` `#technology` `#javascript`
 
 ## A3 thinking
 
@@ -256,7 +256,7 @@ This presentation introduces a bunch of great values related to agile, organizat
 
 [slides](http://www.slideshare.net/cperrone/evolve-or-die-a3-thinking-and-popcorn-flow-in-action-lkce14)
 
-`problem solving` `organization` `agile`
+`#problem solving` `#organization` `#agile`
 
 ## POPCORN Flow
 
@@ -264,7 +264,7 @@ These slides introduces the concept of POPCORN Flow. It's an acronym used to des
 
 [slides](http://www.slideshare.net/cperrone/popcornflow-continuous-evolution-through-ultrarapid-experimentation)
 
-`continuous improvement` `experimentation` `agile`
+`#continuous improvement` `#experimentation` `#agile`
 
 ## The resource utilization trap
 
@@ -272,7 +272,7 @@ In this video Henrik Kniberg makes a very visual demonstration of the problem wi
 
 [video](https://www.youtube.com/watch?v=CostXs2p6r0)
 
-`flow optimization` `pull vs push` `resource optimization` `crisp`
+`#flow optimization` `#pull vs push` `#resource optimization` `#crisp`
 
 ## Blink Estimations
 
@@ -280,7 +280,7 @@ In this article Dan North describes his thoughts on estimations and how very sim
 
 [blog](https://dannorth.net/2013/08/08/blink-estimation/)
 
-`estimations` `teamwork`
+`#estimations` `#teamwork`
 
 ## Post Mortem Template
 
@@ -288,7 +288,7 @@ A template for having a post mortem briefing for incidents, discussing what happ
 
 [gist](https://gist.github.com/btm/7cb421f5fe7d1003083a)
 
-`analysis` `follow up` `incident`
+`#analysis` `#follow up` `#incident`
 
 ## Software Inventory
 
@@ -296,7 +296,7 @@ Joel on Software describes the cost of grooming and working with backlog items t
 
 [blog](https://www.joelonsoftware.com/2012/07/09/software-inventory/)
 
-`backlog` `planning` `agile`
+`#backlog` `#planning` `#agile`
 
 ## 12 Manager READMEs from Silicon Valleyâ€™s Top Tech Companies
 
@@ -304,7 +304,7 @@ This post links to several documents written by development/engineering managers
 
 [blog](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe)
 
-`manager` `values`
+`#manager` `#values`
 
 ## Support your managers with these re:Work tools
 
@@ -312,7 +312,7 @@ re:Work is google sharing their internal tools and thoughts for managers. Some o
 
 [site](https://rework.withgoogle.com/blog/support-managers-with-rework-tools/)
 
-`manager` `tools`
+`#manager` `#tools`
 
 ## The happy secret to better work
 
@@ -320,7 +320,7 @@ In this video we get a few tips on how to be happier through a few steps. 1. Thr
 
 [video](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work)
 
-`happiness` `inspiration`
+`#happiness` `#inspiration`
 
 ## What is a scrum master?
 
@@ -328,7 +328,7 @@ A nice article even if not using scrum. It raises thoughts regarding the interac
 
 [site](https://www.atlassian.com/agile/scrum/scrum-master)
 
-`scrum` `agile` `scrum master`
+`#scrum` `#agile` `#scrum master`
 
 ## CS50
 
@@ -336,7 +336,7 @@ CS50 is a harvard course intro to developement. It has several different courses
 
 [site](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 
-`development` `intro` `mooc`
+`#development` `#intro` `#mooc`
 
 [site](https://cs50.harvard.edu/)
 
@@ -348,7 +348,7 @@ This document describes tools, techniques and technologies for different kinds o
 
 [site](https://github.com/kamranahmedse/developer-roadmap)
 
-`development` `skills`
+`#development` `#skills`
 
 ## Interactive git cheat sheet
 
@@ -356,7 +356,7 @@ This site is an interactive cheat sheet for git which shows visually and interac
 
 [site](https://ndpsoftware.com/git-cheatsheet.html)
 
-`git` `cheat sheet`
+`#git` `#cheat sheet`
 
 ## Programming exercises, code katas and puzzles for your job interview training - or just for fun.
 
@@ -364,7 +364,7 @@ This repo contains a long list of coding exercises that could potentially be use
 
 [github](https://github.com/mre/the-coding-interview)
 
-`github` `code` `exercise`
+`#github` `#code` `#exercise`
 
 ## Links related to engineering management
 
@@ -372,13 +372,13 @@ A collection of inspiring resources related to engineering management and tech l
 
 [github](https://github.com/charlax/engineering-management)
 
-`github` `links` `manager`
+`#github` `#links` `#manager`
 
 ## Links related to development
 
 [github](https://github.com/charlax/professional-programming)
 
-`github` `links` `development`
+`#github` `#links` `#development`
 
 ## Create a retrospective
 
@@ -386,7 +386,7 @@ A simple tool for creating a retrospecive exercise in the five stage process (se
 
 [site](https://retromat.org/en/)
 
-`agile` `retrospecive` `tool`
+`#agile` `#retrospecive` `#tool`
 
 ## Why do standups?
 
@@ -394,4 +394,4 @@ explanation of the ideas, concepts and anti-patterns of a standup. Very good rea
 
 [blog](https://martinfowler.com/articles/itsNotJustStandingUp.html)
 
-`agile` `standup` `teamwork`
+`#agile` `#standup` `#teamwork`
