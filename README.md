@@ -74,8 +74,8 @@ A list of retrospectives in a wiki-styled page
 ## Visual \"Jimmy Cards\"
 
 Jimmy Cards are aids in having retrospectives or for building knowledge  
-[web](http://blog.crisp.se/wp-content/uploads/2015/10/Agile-Topics-Cards-Jimmy-Janl%C3%A9n-Crisp-144-cards.pdf][http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck#more-7126)
-(pdf)
+[web](http://blog.crisp.se/wp-content/uploads/2015/10/Agile-Topics-Cards-Jimmy-Janl%C3%A9n-Crisp-144-cards.pdf)
+[pdf](http://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck#more-7126)
 
 `#retrospective` `#crisp` `#jimmy cards` `#agile` `#scrum`
 
@@ -89,8 +89,8 @@ A great blog entry about what user stories are and what should be put into them.
 ## Splitting User Stories
 
 This article gives some tips and tricks about splitting user stories.  
-[pdf](http://www.agileforall.com/2009/10/patterns-for-splitting-user-stories/][http://www.agileforall.com/2012/01/new-story-splitting-resource/)
-(web)
+[pdf](http://www.agileforall.com/2009/10/patterns-for-splitting-user-stories/)
+[web](http://www.agileforall.com/2012/01/new-story-splitting-resource/)
 
 `#user story` `#tool` `#pdf`
 
@@ -103,11 +103,11 @@ This article talks about how to create good user stories and tasks using the INV
 
 ## Video about Agile Testing
 
-[video 1](http://blog.crisp.se/2014/05/22/jimmyjanlen/seminarie-agil-testning-slides-och-video][https://www.youtube.com/watch?v=cx1aWmIAqCY)
-(blog)
+[video 1](http://blog.crisp.se/2014/05/22/jimmyjanlen/seminarie-agil-testning-slides-och-video)
+[blog](https://www.youtube.com/watch?v=cx1aWmIAqCY)
+[video 2](https://www.youtube.com/watch?v=yBV8FTtYKKc)
 
 `#video` `#crisp` `#test` `#agile`
-[video 2](https://www.youtube.com/watch?v=yBV8FTtYKKc)
 
 ## 7P framwork
 
