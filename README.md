@@ -1,6 +1,5 @@
 # Collection of links I have liked
 
-
 ## Agile Product Owner in 16 minutes
 
 This video created by Henrik Kniberg is one of the best ever made in describing the role of the product owner in an agile setting. It's clear and very well produced and leaves you with great visual notes to use as a basis for discussions with your team if you watch it together.  
